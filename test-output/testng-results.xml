@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="58" started-at="2019-05-14T13:30:07Z" finished-at="2019-05-14T13:30:07Z">
+  <suite started-at="2019-05-14T18:16:09Z" name="Default suite" finished-at="2019-05-14T18:16:09Z" duration-ms="173">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="58" started-at="2019-05-14T13:30:07Z" finished-at="2019-05-14T13:30:07Z">
+    <test started-at="2019-05-14T18:16:09Z" name="Default test" finished-at="2019-05-14T18:16:09Z" duration-ms="173">
       <class name="com.uktd.qa.testcases.LoginTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.uktd.qa.testcases.LoginTest@7d9d1a19]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2019-05-14T13:30:07Z" finished-at="2019-05-14T13:30:07Z">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.uktd.qa.testcases.LoginTest@6ff29830]" started-at="2019-05-14T18:16:09Z" name="beforeMethod" finished-at="2019-05-14T18:16:09Z" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="f()[pri:0, instance:com.uktd.qa.testcases.LoginTest@7d9d1a19]" name="f" duration-ms="6" started-at="2019-05-14T13:30:07Z" finished-at="2019-05-14T13:30:07Z">
+        <test-method signature="f()[pri:0, instance:com.uktd.qa.testcases.LoginTest@6ff29830]" started-at="2019-05-14T18:16:09Z" name="f" finished-at="2019-05-14T18:16:09Z" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.uktd.qa.testcases.LoginTest@7d9d1a19]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-05-14T13:30:07Z" finished-at="2019-05-14T13:30:07Z">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.uktd.qa.testcases.LoginTest@6ff29830]" started-at="2019-05-14T18:16:09Z" name="afterMethod" finished-at="2019-05-14T18:16:09Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
